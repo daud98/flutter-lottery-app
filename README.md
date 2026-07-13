@@ -19,14 +19,14 @@ A simple Flutter application that demonstrates random number generation and basi
 
 ## 📸 Screenshot
 
-<p style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px;">
+<p >
   <img src="assets/screenshots/flutter-lottery-app-success.png" width="300" alt="Flutter Login UI">
 </p>
-
-<p style="display: flex; gap: 10px;">
+<p>
   <img src="assets/screenshots/flutter-lottery-app-fail.png" width="300" alt="Flutter Login UI">
 </p>
-
+</div>
 ---
 
 ## 🛠 Built With
