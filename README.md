@@ -20,7 +20,11 @@ A simple Flutter application that demonstrates random number generation and basi
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="assets/screenshots/flutter-lottery-app.png" width="300" alt="Flutter Login UI">
+  <img src="assets/screenshots/flutter-lottery-app-success.png" width="300" alt="Flutter Login UI">
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/flutter-lottery-app-fail.png" width="300" alt="Flutter Login UI">
 </p>
 
 ---
