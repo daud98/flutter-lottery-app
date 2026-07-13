@@ -23,11 +23,11 @@ A simple Flutter application that demonstrates random number generation and basi
   <tr>
     <td align="center">
       <img src="assets/screenshots/flutter-lottery-app-success.png" width="300"/><br>
-      <b>Login Screen</b>
+      <b>Success on match</b>
     </td>
     <td align="center">
       <img src="assets/screenshots/flutter-lottery-app-fail.png" width="300"/><br>
-      <b>Responsive Layout</b>
+      <b>Failure on mismatch</b>
     </td>
   </tr>
 </table>
