@@ -17,16 +17,20 @@ A simple Flutter application that demonstrates random number generation and basi
 
 ---
 
-## 📸 Screenshot
+<h2>📸 Screenshots</h2>
 
-<div style="display: flex; gap: 10px;">
-<p >
-  <img src="assets/screenshots/flutter-lottery-app-success.png" width="300" alt="Flutter Login UI">
-</p>
-<p>
-  <img src="assets/screenshots/flutter-lottery-app-fail.png" width="300" alt="Flutter Login UI">
-</p>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/flutter-login-ui-1.png" width="300"/><br>
+      <b>Login Screen</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/flutter-login-ui-2.png" width="300"/><br>
+      <b>Responsive Layout</b>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🛠 Built With
